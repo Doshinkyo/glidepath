@@ -2,7 +2,7 @@
 
 Generate free quick and easy charts for tracking burndown, deployments, glidepaths, or creating line charts.
 
-Charts can be generated in Light or Darkmode, with or without trendlines for Target or Actuals.
+Charts can be generated in Light or Dark Mode, with or without trendlines for Target or Actuals.
 
 ![Local Image](chart1.png)
 
